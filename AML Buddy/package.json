@@ -1,0 +1,9 @@
+{
+  "name": "aml-buddy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AML Buddy 互動原型 Demo",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
